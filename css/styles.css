@@ -1,0 +1,279 @@
+            /* HEADER */
+            body {
+                background-color: #F6F8F9;
+            }
+
+            .logo {
+                color: #FA6980;
+                font-size: 13;
+                font-family: Arial, Helvetica, sans-serif;
+                display: inline-block;
+                font-weight: bold;
+                margin: 18px 0px 0px 20px;
+            }
+
+            main {
+                width: 1440px;
+                height: 50px;
+            }
+
+            nav {
+                display: inline-block;
+                margin-bottom: 25px;
+            }
+
+            nav li {
+                display: inline-block;
+
+
+            }
+
+            .cap a {
+                color: #343638;
+                font-size: 11px;
+                font-family: Arial, Helvetica, sans-serif;
+                opacity: 0.5;
+                display: inline-block;
+
+            }
+
+            .l1 {
+                margin-left: 150px;
+                margin-top: 20px;
+                font-size: 11px;
+                color: #202124;
+                opacity: 1;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+
+            .l2 {
+                margin-left: 27px;
+                margin-top: 20px;
+
+            }
+
+            .l3 {
+                margin-left: 22px;
+            }
+
+            .l4 {
+                margin-left: 22px;
+            }
+
+
+
+            .girl {
+                display: inline-block;
+                margin: 6px 0px 0px 590px;
+                position: absolute;
+                transform: translate(-50%, -100%);
+            }
+
+            /* SECTION */
+
+            section {
+                /* width: 1160px;
+                height: 410px; */
+                margin-left: 140px;
+                margin-top: 25px;
+                display: inline-block;
+            }
+
+            h2 {
+                display: inline-block;
+            }
+
+            div h2 {
+                font-size: 24;
+                color: #202124;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+                /* width: 1025px; */
+                height: 20px;
+                display: inline-block;
+            }
+
+            .card1 {
+                display: inline-block;
+                width: 360px;
+                height: 350px;
+                background-color: #FFFFFF;
+                position: relative;
+            }
+
+            .iner1 {
+                position: absolute;
+                top: 163px;
+                left: 180px;
+                color: #FFFFFF;
+                font-size: 16px;
+                font-weight: bold;
+
+            }
+
+            .card2 {
+                display: inline-block;
+                margin-right: 36px;
+                margin-left: 36px;
+                width: 360px;
+                height: 350px;
+                background-color: #FFFFFF;
+                position: relative;
+            }
+
+            .iner2 {
+                position: absolute;
+                top: 163px;
+                left: 580px;
+                color: #FFFFFF;
+                font-size: 16px;
+                font-weight: bold;
+            }
+
+            .card3 {
+                display: inline-block;
+                width: 360px;
+                height: 350px;
+                background-color: #FFFFFF;
+                position: relative;
+            }
+
+            .iner3 {
+                position: absolute;
+                top: 163px;
+                left: 980px;
+                color: #FFFFFF;
+                font-size: 16px;
+                font-weight: bold;
+            }
+
+            .art {
+                font-size: 11px;
+                font-family: Arial, Helvetica, sans-serif;
+                display: inline-block;
+                margin-left: -350px;
+                margin-top: 250px;
+                width: 280px;
+                height: 38px;
+                color: #A6ADB4;
+                position: absolute;
+                /* transform: translate(-50%, -50%); */
+
+            }
+
+            /* SECOUND SECTION  */
+
+            .sec {
+                width: 760px;
+                height: 900px;
+                display: inline-block;
+
+
+            }
+
+            .s1 {
+                margin-bottom: 40px;
+                position: relative;
+            }
+
+            .iner4 {
+                position: absolute;
+                top: 797px;
+                left: 448px;
+                color: #FFFFFF;
+                font-size: 16px;
+                font-weight: bold;
+
+            }
+
+            /* LAST SECTION */
+
+            .d1 {
+                width: 360px;
+                height: 896px;
+                display: inline-block;
+                position: absolute;
+                margin-top: -900px;
+                margin-left: -100px;
+            }
+
+            .f1 {
+                margin-bottom: 102px;
+                margin-top: 102px;
+            }
+
+            .rr {
+                height: 200px;
+                width: 100%;
+                background-color: #A6ADB4;
+                margin-top: 1403px;
+                /* display:inline-block; */
+                display: inline-block
+            }
+
+            .game {
+                width: 500px;
+                height: 86px;
+                margin: 54px 0px 60px 142px;
+                display: inline-block;
+
+
+            }
+
+            span {
+                color: white;
+                vertical-align: top;
+                font-size: 13px;
+                font-weight: bold;
+
+            }
+
+            .ww1 {
+                margin-left: 100px;
+                vertical-align: top;
+                display: inline-block;
+                line-height: 21px;
+                color: #CBD0D3;
+            }
+
+            .ww2 {
+                margin-left: 60px;
+                vertical-align: top;
+                display: inline-block;
+                line-height: 21px;
+                color: #CBD0D3;
+            }
+
+            .ww3 {
+                margin-left: 60px;
+                vertical-align: top;
+                display: inline-block;
+                line-height: 21px;
+                color: #CBD0D3;
+            }
+
+            .game2 {
+                display: inline-block;
+                margin-left: 125px;
+                color: #CBD0D3;
+
+            }
+
+            .game3 {
+                display: inline-block;
+                margin-left: 165px;
+            }
+
+            .ww1 a {
+                color: #CBD0D3;
+            }
+
+            .ww2 a {
+                color: #CBD0D3;
+            }
+
+            .ww3 a {
+                color: #CBD0D3;
+            }
